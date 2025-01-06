@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="WelcomeMessage" xml:space="preserve">
+    <value>Bienvenue sur MasterMind</value>
+  </data>
+  <data name="ChooseColors" xml:space="preserve">
+    <value>Choisissez le nombre de couleurs dans la séquence (entre 4 et 10) :</value>
+  </data>
+  <data name="ChooseAttempts" xml:space="preserve">
+    <value>Choisissez le nombre de tentatives (entre 10 et 100) :</value>
+  </data>
+  <data name="InvalidInput" xml:space="preserve">
+    <value>Erreur : Veuillez entrer un nombre valide entre {0} et {1}.</value>
+  </data>
+  <data name="EnterGuess" xml:space="preserve">
+    <value>Entrez votre tentative (séparez les couleurs par une virgule) :</value>
+  </data>
+  <data name="InvalidGuess" xml:space="preserve">
+    <value>Erreur : Vous devez entrer exactement {0} couleurs.</value>
+  </data>
+  <data name="InvalidColors" xml:space="preserve">
+    <value>Erreur : Les couleurs suivantes sont invalides : {0}</value>
+  </data>
+  <data name="ValidColors" xml:space="preserve">
+    <value>Couleurs valides : {0}</value>
+  </data>
+  <data name="Attempt" xml:space="preserve">
+    <value>Tentative {0}/{1}</value>
+  </data>
+  <data name="Feedback" xml:space="preserve">
+    <value>Bien placée : {0}, Mal placée : {1}</value>
+  </data>
+  <data name="WinMessage" xml:space="preserve">
+    <value>Félicitations ! Vous avez trouvé la séquence !</value>
+  </data>
+  <data name="LoseMessage" xml:space="preserve">
+    <value>Dommage, vous avez perdu. La séquence était :</value>
+  </data>
+  <data name="VisualFeedback" xml:space="preserve">
+    <value>Indices visuels :</value>
+  </data>
+  <data name="ColorBlack" xml:space="preserve">
+    <value>Noir</value>
+  </data>
+  <data name="ColorBlue" xml:space="preserve">
+    <value>Bleu</value>
+  </data>
+  <data name="ColorBrown" xml:space="preserve">
+    <value>Marron</value>
+  </data>
+  <data name="ColorGreen" xml:space="preserve">
+    <value>Vert</value>
+  </data>
+  <data name="ColorOrange" xml:space="preserve">
+    <value>Orange</value>
+  </data>
+  <data name="ColorPink" xml:space="preserve">
+    <value>Rose</value>
+  </data>
+  <data name="ColorPurple" xml:space="preserve">
+    <value>Violet</value>
+  </data>
+  <data name="ColorRed" xml:space="preserve">
+    <value>Rouge</value>
+  </data>
+  <data name="ColorWhite" xml:space="preserve">
+    <value>Blanc</value>
+  </data>
+  <data name="ColorYellow" xml:space="preserve">
+    <value>Jaune</value>
+  </data>
+</root>

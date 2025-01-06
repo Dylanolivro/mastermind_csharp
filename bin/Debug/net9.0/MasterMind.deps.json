@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MasterMind/1.0.0": {
+        "runtime": {
+          "MasterMind.dll": {}
+        },
+        "resources": {
+          "en/MasterMind.resources.dll": {
+            "locale": "en"
+          },
+          "fr/MasterMind.resources.dll": {
+            "locale": "fr"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MasterMind/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
